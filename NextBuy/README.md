@@ -1,4 +1,4 @@
-### 🛍️ NextBuy – Modern E-Commerce Web App ###
+### 🛍️ NextBuy – Modern E-Commerce Web App 
 
 NextBuy is a modern and responsive e-commerce web application built using React, Tailwind CSS, and Context API.
 It provides authentication, product browsing, cart management, and protected routes.
@@ -11,7 +11,7 @@ It provides authentication, product browsing, cart management, and protected rou
 
 
 
-### 🚀 Features ### 
+### 🚀 Features  
 
 🔐 User Authentication (Login / Signup)
 
@@ -33,7 +33,7 @@ It provides authentication, product browsing, cart management, and protected rou
 
 💾 Persistent Cart using LocalStorage
 
-###  🛠 Tech Stack ### 
+###  🛠 Tech Stack  
 
 React JS
 
@@ -47,7 +47,7 @@ Tailwind CSS
 
 LocalStorage
 
-###  📂 Project Structure ### 
+###  📂 Project Structure 
 src/
 │
 ├── components/
@@ -75,7 +75,7 @@ src/
 │
 └── App.jsx
 
-###  🔐 Authentication Flow ### 
+###  🔐 Authentication Flow 
 
 Users must login to:
 
@@ -89,7 +89,7 @@ Logout redirects to Login page
 
 ProtectedRoute component prevents unauthorized access
 
-###  🛒 Cart Functionality ### 
+###  🛒 Cart Functionality 
 
 Add product to cart
 
@@ -105,7 +105,7 @@ Total price calculation
 
 Cart stored in LocalStorage
 
-### 📦 API Used ###
+### 📦 API Used 
 
 Products are fetched from a dummy API using Axios.
 
@@ -113,16 +113,16 @@ Example:
 
 https://fakestoreapi.com/products
 
-### ⚙️ Installation & Setup  ###
+### ⚙️ Installation & Setup  
 
  1️⃣ Clone the repository
 
-git clone https://github.com/Maneesha-sudo/Portfolio/tree/main/NextBuy
+git clone https://github.com/Maneesha-sudo/Portfolio
 
 
 2️⃣ Navigate to project folder 
 
-cd nextbuy
+cd NextBuy
 
  3️⃣ Install dependencies 
 
@@ -134,9 +134,9 @@ npm install
 npm run dev
 
 
-### 🎯 Purpose ###
+### 🎯 Purpose 
 
-This project was built as a learning project to practice:
+This project demonstrates practical implementation of modern React concepts including state management, protected routing, and API integration.
 
 React component architecture
 
@@ -148,7 +148,7 @@ UI design using Tailwind
 
 E-commerce logic implementation
 
-### 👨‍💻 Author ###
+### 👨‍💻 Author 
 
 Developed by Maneesha Mateti
 Frontend Developer | React Enthusiast 🚀
