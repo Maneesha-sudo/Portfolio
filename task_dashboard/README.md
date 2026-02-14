@@ -69,7 +69,7 @@ task_dashboard/
 
 
 ### ⚙️ Installation ###
-git clone https://github.com/your-username/task-management-app.git
+git clone https://github.com/Maneesha-sudo/Portfolio/tree/main/task_dashboard
 
 cd task-management-app
 
