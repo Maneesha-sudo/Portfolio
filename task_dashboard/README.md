@@ -1,4 +1,4 @@
-### 📝 Task Management Application ###
+### 📝 Task Management Application 
 
 A responsive Task Management Application built using React.js that allows users to efficiently create, manage, and organize daily tasks.
 
@@ -8,7 +8,7 @@ This project demonstrates strong understanding of React fundamentals, state mana
 👉 https://taskdashboard-tan.vercel.app/ (hosted on Vercel)
 
 
-### 🚀 Features ###
+### 🚀 Features 
 
 Add, edit, and delete tasks
 
@@ -22,7 +22,7 @@ Multi-page navigation using React Router
 
 Responsive and clean UI
 
-### 🛠️ Tech Stack ###
+### 🛠️ Tech Stack 
 
 React.js
 
@@ -38,7 +38,7 @@ CSS3
 
 localStorage
 
-### 📂 Project Structure ###
+### 📂 Project Structure 
 task_dashboard/
 │
 ├── src/
@@ -68,7 +68,7 @@ task_dashboard/
 
 
 
-### ⚙️ Installation ###
+### ⚙️ Installation 
 git clone https://github.com/Maneesha-sudo/Portfolio
 
 cd task_dashboard
@@ -77,7 +77,7 @@ npm install
 
 npm run dev
 
-### 🎯 Key Highlights ###
+### 🎯 Key Highlights 
 
 Implemented full CRUD functionality using React hooks
 
@@ -87,7 +87,7 @@ Persisted user data using localStorage
 
 Built modular and reusable component structure
 
-### 👩‍💻 Author ###
+### 👩‍💻 Author 
 
 Maneesha Mateti
 Frontend Developer (React)
