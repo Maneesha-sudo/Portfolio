@@ -4,11 +4,9 @@ NextBuy is a modern and responsive e-commerce web application built using React,
 It provides authentication, product browsing, cart management, and protected routes.
 
 
-🔗 Deployment Link:
+ ### 🔗 Deployment Link: ###
 👉 https://your-live-link.com
 
-
-🚀 Features
 
 ### 🚀 Features ### 
 
@@ -104,7 +102,7 @@ Total price calculation
 
 Cart stored in LocalStorage
 
-📦 API Used
+### 📦 API Used ###
 
 Products are fetched from a dummy API using Axios.
 
@@ -112,29 +110,29 @@ Example:
 
 https://fakestoreapi.com/products
 
-⚙️ Installation & Setup
+###⚙️ Installation & Setup ###
 
-1️⃣ Clone the repository
+## 1️⃣ Clone the repository ##
 
 git clone https://github.com/Maneesha-sudo/Portfolio/tree/main/NextBuy
 
 
-2️⃣ Navigate to project folder
+## 2️⃣ Navigate to project folder ##
 
 cd nextbuy
 
 
-3️⃣ Install dependencies
+##  3️⃣ Install dependencies ##
 
 npm install
 
 
-4️⃣ Start development server
+## 4️⃣ Start development server ##
 
 npm run dev
 
 
-🎯 Purpose
+### 🎯 Purpose ###
 
 This project was built as a learning project to practice:
 
@@ -148,7 +146,7 @@ UI design using Tailwind
 
 E-commerce logic implementation
 
-👨‍💻 Author
+### 👨‍💻 Author ###
 
 Developed by Maneesha Mateti
 Frontend Developer | React Enthusiast 🚀
