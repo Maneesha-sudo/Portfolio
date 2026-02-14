@@ -69,9 +69,9 @@ task_dashboard/
 
 
 ### ⚙️ Installation ###
-git clone https://github.com/Maneesha-sudo/Portfolio/tree/main/task_dashboard
+git clone https://github.com/Maneesha-sudo/Portfolio
 
-cd task-management-app
+cd task_dashboard
 
 npm install
 
