@@ -4,8 +4,9 @@ NextBuy is a modern and responsive e-commerce web application built using React,
 It provides authentication, product browsing, cart management, and protected routes.
 
 
- ### 🔗 Deployment Link: ###
-👉 https://your-live-link.com
+## 🚀 Live Demo
+
+👉 https://nextbuyapprepo.vercel.app/
 
 
 ### 🚀 Features ### 
