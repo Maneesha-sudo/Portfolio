@@ -4,9 +4,7 @@ A responsive Task Management Application built using React.js that allows users 
 
 This project demonstrates strong understanding of React fundamentals, state management, and client-side routing.
 
-🔗 Live Demo
-
-🚀 Live Demo:
+🔗 Deployment Link:
 👉 https://your-live-link.com
 
 

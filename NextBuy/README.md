@@ -3,6 +3,10 @@
 NextBuy is a modern and responsive e-commerce web application built using React, Tailwind CSS, and Context API.
 It provides authentication, product browsing, cart management, and protected routes.
 
+🔗 Deployment Link:
+👉 https://your-live-link.com
+
+
 🚀 Features
 
 🔐 User Authentication (Login / Signup)
@@ -109,7 +113,7 @@ https://fakestoreapi.com/products
 
 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/nextbuy.git
+git clone https://github.com/Maneesha-sudo/Portfolio/tree/main/NextBuy
 
 
 2️⃣ Navigate to project folder
