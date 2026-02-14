@@ -1,4 +1,4 @@
-🛍️ NextBuy – Modern E-Commerce Web App
+### 🛍️ NextBuy – Modern E-Commerce Web App ###
 
 NextBuy is a modern and responsive e-commerce web application built using React, Tailwind CSS, and Context API.
 It provides authentication, product browsing, cart management, and protected routes.
