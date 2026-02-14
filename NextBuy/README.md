@@ -6,7 +6,9 @@ It provides authentication, product browsing, cart management, and protected rou
 
 ## 🚀 Live Demo
 
-👉 https://nextbuyapprepo.vercel.app/
+👉 https://nextbuyapprepo.vercel.app/ (hosted on Vercel)
+
+
 
 
 ### 🚀 Features ### 
