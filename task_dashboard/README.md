@@ -70,8 +70,11 @@ task_dashboard/
 
 ### ⚙️ Installation ###
 git clone https://github.com/your-username/task-management-app.git
+
 cd task-management-app
+
 npm install
+
 npm run dev
 
 ### 🎯 Key Highlights ###
