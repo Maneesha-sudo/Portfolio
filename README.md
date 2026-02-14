@@ -6,6 +6,22 @@ This repository contains my frontend applications built using React.js and moder
 ---
 
 ## 🚀 Projects
+### ✅ Task Dashboard – Task Management Application
+
+A modern task management dashboard designed to improve productivity with task tracking features.
+
+**Tech Stack:**  
+React.js, JavaScript, CSS, React Router, Context API, LocalStorage
+
+**Key Features:**
+- Add, edit, and delete tasks
+- Task filtering functionality
+- Reordering tasks
+- Clean and intuitive UI
+- Responsive layout
+
+📂 Project Folder: `task_dashboard`
+---
 
 ### 🛒 NextBuy – E-Commerce Web Application
 
@@ -22,24 +38,6 @@ React.js, Context API, React Router, Axios, Tailwind CSS, LocalStorage
 - Responsive design
 
 📂 Project Folder: `NextBuy`
-
----
-
-### ✅ Task Dashboard – Task Management Application
-
-A modern task management dashboard designed to improve productivity with task tracking features.
-
-**Tech Stack:**  
-React.js, JavaScript, CSS
-
-**Key Features:**
-- Add, edit, and delete tasks
-- Task filtering functionality
-- Reordering tasks
-- Clean and intuitive UI
-- Responsive layout
-
-📂 Project Folder: `task_dashboard`
 
 ---
 
