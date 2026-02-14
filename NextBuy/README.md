@@ -3,7 +3,7 @@
 NextBuy is a modern and responsive e-commerce web application built using React, Tailwind CSS, and Context API.
 It provides authentication, product browsing, cart management, and protected routes.
 
-🚀 Features
+### 🚀 Features ### 
 
 🔐 User Authentication (Login / Signup)
 
@@ -25,7 +25,7 @@ It provides authentication, product browsing, cart management, and protected rou
 
 💾 Persistent Cart using LocalStorage
 
-🛠 Tech Stack
+###  🛠 Tech Stack ### 
 
 React JS
 
@@ -39,7 +39,7 @@ Tailwind CSS
 
 LocalStorage
 
-📂 Project Structure
+###  📂 Project Structure ### 
 src/
 │
 ├── components/
@@ -67,7 +67,7 @@ src/
 │
 └── App.jsx
 
-🔐 Authentication Flow
+###  🔐 Authentication Flow ### 
 
 Users must login to:
 
@@ -81,7 +81,7 @@ Logout redirects to Login page
 
 ProtectedRoute component prevents unauthorized access
 
-🛒 Cart Functionality
+###  🛒 Cart Functionality ### 
 
 Add product to cart
 
