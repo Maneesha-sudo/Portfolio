@@ -14,13 +14,14 @@ A modern task management dashboard designed to improve productivity with task tr
 React.js, JavaScript, CSS, React Router, Context API, LocalStorage
 
 **Key Features:**
-- Add, edit, and delete tasks
-- Task filtering functionality
-- Reordering tasks
-- Clean and intuitive UI
+- Add, edit, and delete tasks (Full CRUD functionality)
+- Filter tasks based on status
+- Persistent data storage using localStorage
+- Clean and intuitive user interface
 - Responsive layout
 
-📂 Project Folder: `task_dashboard`
+📂 Project Folder: `task_dahsboard`
+
 ---
 
 ### 🛒 NextBuy – E-Commerce Web Application
