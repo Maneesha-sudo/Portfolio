@@ -110,24 +110,23 @@ Example:
 
 https://fakestoreapi.com/products
 
-###⚙️ Installation & Setup ###
+### ⚙️ Installation & Setup  ###
 
-## 1️⃣ Clone the repository ##
+ 1️⃣ Clone the repository
 
 git clone https://github.com/Maneesha-sudo/Portfolio/tree/main/NextBuy
 
 
-## 2️⃣ Navigate to project folder ##
+2️⃣ Navigate to project folder 
 
 cd nextbuy
 
-
-##  3️⃣ Install dependencies ##
+ 3️⃣ Install dependencies 
 
 npm install
 
 
-## 4️⃣ Start development server ##
+ 4️⃣ Start development server 
 
 npm run dev
 
